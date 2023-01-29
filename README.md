@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Nikki Pinzon</h1>
+<h4>React.js Developer</h4>
 
 <!--
 **npinzon1994/npinzon1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
