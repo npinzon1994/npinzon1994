@@ -1,6 +1,6 @@
 <h1>⚛ Nikki Pinzon</h1>
 
-### Independent React.js Developer
+### Independent React Developer
 
 <p>Hello! I'm an independent Front-End Web Developer looking to ease the lives of everyone around me through code. My passion for clean, component-driven design and problem solving are what drive me to create the best products possible. I have a Bachelor's degree in Computer Science and have spent the past several months learning and honing my skills with React.js, while concurrently developing my own personal money management app. As I continue to build up my project portfolio, my goal is to begin my career in Web Development and start contributing to large-scale web applications in the real world.</p>
 
@@ -20,7 +20,15 @@
 <hr />
 
 ### 🛠 Languages & Tools
-
+<p>
+  <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="React.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p>
 
 
 <!--
