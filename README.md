@@ -30,20 +30,27 @@
   <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p><br /><br /><br />
 
-### ⚡ Current Projects
+## ⚡ Current Projects
 
-**Budget Breakdown**  
+### Budget Breakdown
+
+<img src="https://user-images.githubusercontent.com/22157316/215879694-05dfdd65-3e49-43f8-b2a4-97e809aa5f21.PNG" alt="Budget Breakdown screenshot" height="350px" width="550px"/>
 
 Budget Breakdown is a simple money management application. I started this project briefly in March 2022 but had to take some time off until I really buckled down and started getting it up and running. In its current state, it allows users to enter credit card expenses into a form which get output to a list on the main page. Users can also delete expenses as well as filter them by paid/unpaid.  
   
-I coded this app with React.js to really put my knowledge to the test after starting a React course on Udemy. Aside from all the unexpected errors this project has thrown at me over the past few months, I had a lot of fun putting it together! I had a lot of "aha!" moments where the core concepts I was taught in the course finally clicked with me -- like managing state with ```useReducer()``` and ```useContext()```, or handling http requests with ```useEffect()```. Although there are still a lot more features I wish to implement, this project undoubtedly took my React skills to the next level.
+I coded this app with React.js to really put my knowledge to the test after starting a React course on Udemy. Aside from all the unexpected errors this project has thrown at me over the past few months, I had a lot of fun putting it together! I had a lot of "aha!" moments where the core concepts I was taught in the course finally clicked with me -- like managing state with ```useReducer()``` and ```useContext()```, or handling http requests with ```useEffect()```. Although there are still a lot more features I wish to implement, this project undoubtedly took my React skills to the next level.  
+  
+#### Planned Features
+- Ability to edit expense items
+- Multiple account support (i.e. debit, credit, savings, etc.)
+- Implementing a page system with a maximum of about 10 or 20 expenses per page
+- More filter options
 
 <!--
 **npinzon1994/npinzon1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
