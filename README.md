@@ -17,19 +17,26 @@
   </a>
 </p>
 
-<hr />
+---
 
 ### 🛠 Languages & Tools
 <p>
-  <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="React.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</p>
+  <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="React.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p><br /><br /><br />
 
+### ⚡ Current Projects
+
+**Budget Breakdown**  
+
+Budget Breakdown is a simple money management application. I started this project briefly in March 2022 but had to take some time off until I really buckled down and started getting it up and running. In its current state, it allows users to enter credit card expenses into a form which get output to a list on the main page. Users can also delete expenses as well as filter them by paid/unpaid.  
+  
+I coded this app with React.js to really put my knowledge to the test after starting a React course on Udemy. Aside from all the unexpected errors this project has thrown at me over the past few months, I had a lot of fun putting it together! I had a lot of "aha!" moments where the core concepts I was taught in the course finally clicked with me -- like managing state with ```useReducer()``` and ```useContext()```, or handling http requests with ```useEffect()```. Although there are still a lot more features I wish to implement, this project undoubtedly took my React skills to the next level.
 
 <!--
 **npinzon1994/npinzon1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
