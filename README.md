@@ -17,9 +17,9 @@
   </a>
 </p>
 
----
+<br/>
 
-### 🛠 Languages & Tools
+## 🛠 Languages & Tools
 <p>
   <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="React.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
