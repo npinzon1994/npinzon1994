@@ -41,7 +41,7 @@
 #### Updates! ⚡ 
 
 - Users can now edit expenses
-- Expenses are now organized into pages of 10 (if the list contains more than 11 items)
+- Expenses are now organized into pages of 10 (if the list contains more than 10 items)
 - Refined UI
 #
 
@@ -50,10 +50,10 @@ Budget Breakdown is a simple money management application. I started this projec
 I coded this app with React.js to really put my knowledge to the test after starting a React course on Udemy. Aside from all the unexpected errors this project has thrown at me over the past few months, I had a lot of fun putting it together! I had a lot of "aha!" moments where the core concepts I was taught in the course finally clicked with me -- like managing state with ```useReducer()``` and ```useContext()```, or handling http requests with ```useEffect()```. Although there are still a lot more features I wish to implement, this project undoubtedly took my React skills to the next level.  
   
 #### Planned Features
-- Ability to edit expense items
 - Multiple account support (i.e. debit, credit, savings, etc.)
-- Implementing a page system with a maximum of about 10 or 20 expenses per page
 - More filter options
+- ~~Ability to edit expense items~~ ✅
+- ~~Implement a page system with a maximum of about 10 or 20 expenses per page~~ ✅
 
 <!--
 **npinzon1994/npinzon1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
