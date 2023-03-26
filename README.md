@@ -36,7 +36,7 @@
 
 ### Budget Breakdown
 
-<img src="https://user-images.githubusercontent.com/22157316/227803604-8d6b1cd5-db8e-415f-8c04-72b722b06dee.png" alt="Budget Breakdown screenshot" height="350px" width="550px"/>
+<a href="https://github.com/npinzon1994/budget-breakdown"><img src="https://user-images.githubusercontent.com/22157316/227803604-8d6b1cd5-db8e-415f-8c04-72b722b06dee.png" alt="Budget Breakdown screenshot" height="350px" width="550px"/></a>
 
 #### Updates! ⚡
 
