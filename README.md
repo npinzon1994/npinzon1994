@@ -41,7 +41,7 @@
 #### Updates! ⚡
 
 *3/26/2023*
-- Users can now edit expenses
+- Users can now edit expenses by clicking on them
 - Expenses are now organized into pages of 10 (if the list contains more than 10 items)
 - Refined UI
 #
