@@ -32,11 +32,18 @@
   <img align="left" alt="Firebase" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </p><br /><br /><br />
 
-## ⚡ Current Projects
+## 👩‍💻 Current Projects
 
 ### Budget Breakdown
 
-<img src="https://user-images.githubusercontent.com/22157316/215879694-05dfdd65-3e49-43f8-b2a4-97e809aa5f21.PNG" alt="Budget Breakdown screenshot" height="350px" width="550px"/>
+<img src="https://user-images.githubusercontent.com/22157316/227803604-8d6b1cd5-db8e-415f-8c04-72b722b06dee.png" alt="Budget Breakdown screenshot" height="350px" width="550px"/>
+
+#### Updates! ⚡ 
+
+- Users can now edit expenses
+- Expenses are now organized into pages of 10 (if the list contains more than 11 items)
+- Refined UI
+#
 
 Budget Breakdown is a simple money management application. I started this project briefly in March 2022 but had to take some time off until I really buckled down and started getting it up and running. In its current state, it allows users to enter credit card expenses into a form which get output to a list on the main page. Users can also delete expenses as well as filter them by paid/unpaid.  
   
