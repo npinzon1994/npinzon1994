@@ -1,4 +1,4 @@
-<h1>⚛ Nikki Pinzon</h1>
+<h1>Nikki Pinzon</h1>
 
 ### Software Engineer
 
