@@ -46,7 +46,7 @@
   <tr>
     <td>
       <h3>Developer Portfolio</h3>
-      <a href="https://github.com/npinzon1994/personal-github-site"><img src="https://github.com/npinzon1994/npinzon1994/assets/22157316/6693eaa5-63d6-4e50-9c3f-0eea30a17c23" alt="Budget Breakdown screenshot" height="270px" width="700px"/></a>
+      <a href="https://github.com/npinzon1994/npinzon1994.github.io"><img src="https://github.com/npinzon1994/npinzon1994/assets/22157316/6693eaa5-63d6-4e50-9c3f-0eea30a17c23" alt="Budget Breakdown screenshot" height="270px" width="700px"/></a>
     </td>
     <td>
       <h3>Budget Breakdown</h3>
