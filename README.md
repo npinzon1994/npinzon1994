@@ -4,7 +4,7 @@
 
 <p>I'm a Software Engineer with 5+ years of experience in creating highly optimized, scalable, and visually striking web applications. I help businesses enhance their user experience through clean and intuitive UI/UX implementations, demonstrated by improved user engagement and client satisfaction for over 200,000 daily users.</p>
 
-<p>I'm currently venturing into the world of Fullstack Development by learning Next.js 👩‍💻</p>
+<p>I'm currently building full-stack applications with Next.js, AWS, and MongoDB</p>
 
 <!-- Badges -->
 <p>
