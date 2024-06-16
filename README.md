@@ -29,6 +29,7 @@
   <img align="left" alt="HTML5" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="TypeScript" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="left" alt="TypeScript" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="left" alt="Python" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="left" alt="Java" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="Git" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -44,13 +45,13 @@
 
 <table>
   <tr>
-    <td>
-      <h3>Developer Portfolio</h3>
-      <a href="https://github.com/npinzon1994/npinzon1994.github.io"><img src="https://github.com/npinzon1994/npinzon1994/assets/22157316/6693eaa5-63d6-4e50-9c3f-0eea30a17c23" alt="Budget Breakdown screenshot" height="270px" width="700px"/></a>
+     <td>
+      <h3>Budget Breakdown</h3>
+      <a href="https://github.com/npinzon1994/budget-breakdown"><img src="https://github.com/npinzon1994/npinzon1994/assets/22157316/f81ebfcd-95d8-45ac-a296-b1f87ee7e760" alt="Budget Breakdown screenshot" width="700px"/></a>
     </td>
     <td>
-      <h3>Budget Breakdown</h3>
-      <a href="https://github.com/npinzon1994/budget-breakdown"><img src="https://github.com/npinzon1994/npinzon1994/assets/22157316/0f798cc6-6a47-48c5-ba31-96fe4db6b097" alt="Budget Breakdown screenshot" height="270px" width="700px"/></a>
+      <h3>Developer Portfolio</h3>
+      <a href="https://github.com/npinzon1994/npinzon1994.github.io"><img src="https://github.com/npinzon1994/npinzon1994/assets/22157316/6693eaa5-63d6-4e50-9c3f-0eea30a17c23" alt="Budget Breakdown screenshot" width="700px"/></a>
     </td>
   </tr>
 </table>
