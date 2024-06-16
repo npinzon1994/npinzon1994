@@ -39,7 +39,7 @@
    <img align="left" alt="Visual Studio Code" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
  
-</p><br /><br /><br /><br />
+</p><br /><br /><br /><br /><br />
 
 ## 👩‍💻 Current Projects
 
